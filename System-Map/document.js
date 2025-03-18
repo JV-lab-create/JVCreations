@@ -1,5 +1,5 @@
 import VERSION from "./version.js";
-import DATA from "./data.txt";
+import DATA from "./data.json";
 import SETTINGS from "./settings.js";
 import DRAWING from "./drawing.js";
 import DIRECTIONS from "./directions.js";

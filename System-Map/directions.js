@@ -1,7 +1,7 @@
 import UTILITIES from "./utilities.js";
 import DOCUMENT from "./document.js";
 import ACTIONS from "./actions.js";
-import DATA from "./data.txt";
+import DATA from "./data.json";
 import SETTINGS from "./settings.js";
 import FetchData from "./fetch.js";
 

@@ -2,8 +2,7 @@ import UTILITIES from "./utilities.js";
 import DOCUMENT from "./document.js";
 import SETTINGS from "./settings.js";
 import ACTIONS from "./actions.js";
-import DATA from "./data.txt";
-
+import DATA from "./data.json";
 const OBJECT_CACHE = {};
 const DRAWING = {
 	drawMap: (lineQueue, stationQueue, connectionQueue) => {

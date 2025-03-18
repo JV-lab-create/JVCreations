@@ -1,7 +1,7 @@
 import DRAWING from "./drawing.js"
 import FetchData from "./fetch.js";
 import UTILITIES from "./utilities.js";
-import DATA from "./data.js";
+import DATA from "./data.json";
 import SETTINGS from "./settings.js";
 
 const DATA_REFRESH_INTERVAL = 30000;
