@@ -1,5 +1,5 @@
 import UTILITIES from "./utilities.js";
-import DATA from "./data.txt";
+import DATA from "./data.json";
 import DOCUMENT from "./document.js";
 import SETTINGS from "./settings.js";
 import DRAWING from "./drawing.js";
