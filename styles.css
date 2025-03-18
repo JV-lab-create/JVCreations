@@ -1,0 +1,41 @@
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #1a1a1a;
+}
+p {
+    color:white;
+    margin-left: 80px;
+}
+.title {
+    color:white;
+    text-align: center;
+}
+.link {
+    margin-left: 80px;
+}
+a:link, a:visited {
+    color: #9badff;
+    text-decoration: none;
+}
+.topnav {
+    background-color: #303030;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #b9b9b9;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: #626dff;
+    color: white;
+  }
+  
