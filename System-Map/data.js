@@ -1,1 +1,291 @@
-[{"routes":[{"color":16737024,"name":"灰燼輕軌|Cinderance Light Railway||Northbound","number":"","type":"train_normal","stations":["6643709366432364585_16737024","3368853261240978225_16737024","-3262948853168343561_16737024","-4164122030413436518_16737024"],"durations":[1405.0,567.0,457.0],"densities":[0,78,246,189],"circular":""},{"color":3963096,"name":"樺山線|Mount Birch Line||Alpha Island","number":"","type":"train_normal","stations":["6823092052398500926_3963096","-1739084544782543089_3963096"],"durations":[1246.0],"densities":[0,92],"circular":""},{"color":74751,"name":"出生点|Spawn Line||LinganNorthbound","number":"","type":"train_normal","stations":["-1739084544782543089_74751","6823092052398500926_74751","-3051190326373733127_74751"],"durations":[0.0,0.0],"densities":[0,0,0],"circular":""},{"color":8703,"name":"港口線|Lingang Line||Northbound","number":"","type":"train_normal","stations":["-1739084544782543089_8703","6823092052398500926_8703","-3051190326373733127_8703","-1492420190735658279_8703","5236730523383530310_8703"],"durations":[0.0,0.0,658.0,651.0],"densities":[0,0,0,288,160],"circular":""},{"color":10181930,"name":"二號線|Line Two||BD","number":"","type":"train_normal","stations":["7128789985197803418_10181930","-5665359505300144238_10181930"],"durations":[919.0],"densities":[0,70],"circular":""},{"color":4280443,"name":"一號線|Line One||Anti-Clockwise","number":"","type":"train_normal","stations":["-1739084544782543089_4280443","-6628204024248234349_4280443","-2035437459134361594_4280443","4683279714271361421_4280443","7128789985197803418_4280443","-1739084544782543089_4280443"],"durations":[1166.0,727.0,345.0,372.0,438.0],"densities":[0,0,2,491,788,774],"circular":"ccw"},{"color":628480,"name":"產生輕軌|Spawn Light Rail||Northbound","number":"01線","type":"train_light_rail","stations":["-4589930643863724282_628480","8464691330243490091_628480","-4164122030413436518_628480","-3320421163145711818_628480","-7596109708095340909_628480","-4414795271519129906_628480","2977985869678458694_628480","-6477685382305361597_628480","1573150275692725326_628480","-7839389216972535814_628480","8796225117373659731_628480","8851587345909145143_628480","-8212736138964045606_628480","-1739084544782543089_628480","2211430871436903659_628480","6410148949459659609_628480","8423320549579878739_628480","7243970841513343208_628480","6823092052398500926_628480","3941282678236741906_628480","2723228740791720548_628480","7916619103169577785_628480","-3051190326373733127_628480","-5694418910375205893_628480","-5440002202845019967_628480","5236730523383530310_628480"],"durations":[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],"densities":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"circular":""},{"color":4280443,"name":"一號線|Line One||Clockwise Via Hangout Avenue","number":"","type":"train_normal","stations":["-1739084544782543089_4280443","7128789985197803418_4280443","4683279714271361421_4280443","-2035437459134361594_4280443","-6628204024248234349_4280443","-1739084544782543089_4280443"],"durations":[708.0,386.0,349.0,773.0,1260.0],"densities":[0,0,572,356,18,0],"circular":"cw"},{"color":16318719,"name":"出生点|Spawn Line||EXPRESSLinganSouthbound","number":"表达|Express","type":"train_normal","stations":["-3051190326373733127_16318719","-1739084544782543089_16318719"],"durations":[1364.0],"densities":[0,368],"circular":""},{"color":10181930,"name":"二號線|Line Two||DB","number":"","type":"train_normal","stations":["-5665359505300144238_10181930","7128789985197803418_10181930"],"durations":[1123.0],"densities":[0,31],"circular":""},{"color":2541274,"name":"出生点|Spawn Line||MiniNorthbound","number":"","type":"train_normal","stations":["2663823604291792367_2541274","8796225117373659731_2541274"],"durations":[813.0],"densities":[0,22],"circular":""},{"color":12133119,"name":"產生輕軌|Spawn Light Rail||Southbound","number":"02線","type":"train_light_rail","stations":["5236730523383530310_12133119","-5440002202845019967_12133119","-5694418910375205893_12133119","-3051190326373733127_12133119"],"durations":[0.0,0.0,0.0],"densities":[0,0,0,0],"circular":""},{"color":12133119,"name":"產生輕軌|Spawn Light Rail||Northbound","number":"02線","type":"train_light_rail","stations":["-3051190326373733127_12133119","-5694418910375205893_12133119","-5440002202845019967_12133119","5236730523383530310_12133119"],"durations":[0.0,0.0,0.0],"densities":[0,0,0,0],"circular":""},{"color":13518217,"name":"Spawn Light Rail","number":"06線","type":"train_light_rail","stations":["5236730523383530310_13518217","6447283983532826607_13518217"],"durations":[0.0],"densities":[0,0],"circular":""},{"color":16318719,"name":"出生点|Spawn Line||EXPRESSLinganNorthbound","number":"表达|Express","type":"train_normal","stations":["-1739084544782543089_16318719","-3051190326373733127_16318719"],"durations":[1363.0],"densities":[0,470],"circular":""},{"color":65482,"name":"Spawn Light Rail","number":"06線","type":"train_light_rail","stations":["6447283983532826607_65482","5236730523383530310_65482"],"durations":[0.0],"densities":[0,0],"circular":""},{"color":430591,"name":"三號線|Line Three||Northbound","number":"","type":"train_normal","stations":["-6477685382305361597_430591","-1619362567279986015_430591","8851587345909145143_430591","-6418605228925922213_430591"],"durations":[0.0,0.0,0.0],"densities":[0,0,0,0],"circular":""},{"color":6610935,"name":"Ctrxins Light Rail||Northbound","number":"","type":"train_normal","stations":[],"durations":[],"densities":[],"circular":""},{"color":16763416,"name":"四號線|Line Four||Southbound","number":"","type":"train_normal","stations":["7128789985197803418_16763416","6160492227114952001_16763416","-6418605228925922213_16763416","8851587345909145143_16763416","8796225117373659731_16763416"],"durations":[927.0,703.0,1289.0,925.0],"densities":[0,62,57,143,187],"circular":""},{"color":16737024,"name":"灰燼輕軌|Cinderance Light Railway||Southbound","number":"","type":"train_light_rail","stations":["-4164122030413436518_16737024","-3262948853168343561_16737024","3368853261240978225_16737024","6643709366432364585_16737024"],"durations":[349.0,565.0,1403.0],"densities":[0,141,211,51],"circular":""},{"color":16763416,"name":"四號線|Line Four||Northbound","number":"","type":"train_normal","stations":["8796225117373659731_16763416","8851587345909145143_16763416","-6418605228925922213_16763416","6160492227114952001_16763416","7128789985197803418_16763416"],"durations":[926.0,1288.0,748.0,1148.0],"densities":[0,24,113,48,56],"circular":""},{"color":15963818,"name":"蘇鐵綫|Scottetsu Line","number":"L","type":"train_normal","stations":["-1739084544782543089_15963818","-8499241135748588762_15963818","-1739084544782543089_15963818"],"durations":[648.0,962.0],"densities":[0,191,21],"circular":""},{"color":5987732,"name":"Mainsion Cable Car","number":"","type":"cable_car_normal","stations":["1640121238206489486_5987732","-7496004603142697666_5987732"],"durations":[1574.0],"densities":[0,0],"circular":"cw"},{"color":6610935,"name":"Ctrxins Light Rail||Southbound","number":"","type":"train_normal","stations":[],"durations":[],"densities":[],"circular":""},{"color":3963096,"name":"樺山線|Mount Birch Line||Financial Center","number":"","type":"train_normal","stations":["-1739084544782543089_3963096","6823092052398500926_3963096"],"durations":[1357.0],"densities":[0,156],"circular":""},{"color":628480,"name":"產生輕軌|Spawn Light Rail||Southbound","number":"01線","type":"train_light_rail","stations":["5236730523383530310_628480","-5440002202845019967_628480","-5694418910375205893_628480","-3051190326373733127_628480","7916619103169577785_628480","2723228740791720548_628480","3941282678236741906_628480","6823092052398500926_628480","7243970841513343208_628480","8423320549579878739_628480","6410148949459659609_628480","2211430871436903659_628480","-1739084544782543089_628480","-8212736138964045606_628480","8851587345909145143_628480","8796225117373659731_628480","-7839389216972535814_628480","1573150275692725326_628480","-6477685382305361597_628480","2977985869678458694_628480","-4414795271519129906_628480","-7596109708095340909_628480","-3320421163145711818_628480","-4164122030413436518_628480","8464691330243490091_628480","-4589930643863724282_628480"],"durations":[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],"densities":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"circular":""},{"color":74751,"name":"出生点|Spawn Line||LinganSouthbound","number":"","type":"train_normal","stations":["-3051190326373733127_74751","6823092052398500926_74751","-1739084544782543089_74751"],"durations":[0.0,0.0],"densities":[0,0,0],"circular":""},{"color":8703,"name":"港口線|Lingang Line||Southbound","number":"","type":"train_normal","stations":["5236730523383530310_8703","-1492420190735658279_8703","-3051190326373733127_8703","6823092052398500926_8703","-1739084544782543089_8703"],"durations":[649.0,667.0,0.0,0.0],"densities":[0,25,166,0,0],"circular":""},{"color":2541274,"name":"出生点|Spawn Line||MiniSouthbound","number":"","type":"train_normal","stations":["8796225117373659731_2541274","2663823604291792367_2541274"],"durations":[801.0],"densities":[0,17],"circular":""},{"color":430591,"name":"三號線|Line Three||Southbound","number":"","type":"train_normal","stations":["-6418605228925922213_430591","8851587345909145143_430591","-6477685382305361597_430591"],"durations":[0.0,0.0],"densities":[0,0,0],"circular":""}],"positions":{"6643709366432364585_16737024":{"x":4151,"y":1139,"vertical":true},"3368853261240978225_16737024":{"x":4151,"y":1791,"vertical":true},"-3262948853168343561_16737024":{"x":4151,"y":1978,"vertical":true},"-4164122030413436518_16737024":{"x":4151,"y":2102,"vertical":true},"6823092052398500926_3963096":{"x":625,"y":-466,"vertical":true},"-1739084544782543089_3963096":{"x":484,"y":846,"vertical":true},"-1739084544782543089_74751":{"x":656,"y":834,"vertical":true},"6823092052398500926_74751":{"x":656,"y":-466,"vertical":true},"-3051190326373733127_74751":{"x":1388,"y":-1236,"vertical":false},"-1739084544782543089_8703":{"x":656,"y":834,"vertical":true},"6823092052398500926_8703":{"x":656,"y":-466,"vertical":true},"-3051190326373733127_8703":{"x":1388,"y":-1236,"vertical":false},"-1492420190735658279_8703":{"x":2112,"y":-1236,"vertical":false},"5236730523383530310_8703":{"x":2250,"y":-658,"vertical":true},"7128789985197803418_10181930":{"x":943,"y":1336,"vertical":true},"-5665359505300144238_10181930":{"x":939,"y":1937,"vertical":true},"-1739084544782543089_4280443":{"x":565,"y":868,"vertical":true},"-6628204024248234349_4280443":{"x":568,"y":1618,"vertical":true},"-2035437459134361594_4280443":{"x":843,"y":1864,"vertical":false},"4683279714271361421_4280443":{"x":1277,"y":1507,"vertical":true},"7128789985197803418_4280443":{"x":948,"y":1270,"vertical":false},"-4589930643863724282_628480":{"x":5301,"y":2223,"vertical":true},"8464691330243490091_628480":{"x":4536,"y":2142,"vertical":false},"-4164122030413436518_628480":{"x":4139,"y":2142,"vertical":false},"-3320421163145711818_628480":{"x":3772,"y":2142,"vertical":false},"-7596109708095340909_628480":{"x":3239,"y":2142,"vertical":false},"-4414795271519129906_628480":{"x":2578,"y":2151,"vertical":false},"2977985869678458694_628480":{"x":2220,"y":2151,"vertical":false},"-6477685382305361597_628480":{"x":1787,"y":2195,"vertical":true},"1573150275692725326_628480":{"x":1295,"y":2512,"vertical":false},"-7839389216972535814_628480":{"x":898,"y":2512,"vertical":false},"8796225117373659731_628480":{"x":673,"y":2454,"vertical":true},"8851587345909145143_628480":{"x":672,"y":2105,"vertical":true},"-8212736138964045606_628480":{"x":84,"y":1196,"vertical":true},"-1739084544782543089_628480":{"x":691,"y":803,"vertical":true},"2211430871436903659_628480":{"x":683,"y":530,"vertical":true},"6410148949459659609_628480":{"x":683,"y":329,"vertical":true},"8423320549579878739_628480":{"x":683,"y":62,"vertical":true},"7243970841513343208_628480":{"x":683,"y":-205,"vertical":true},"6823092052398500926_628480":{"x":683,"y":-455,"vertical":true},"3941282678236741906_628480":{"x":918,"y":-616,"vertical":true},"2723228740791720548_628480":{"x":918,"y":-1050,"vertical":true},"7916619103169577785_628480":{"x":979,"y":-1285,"vertical":false},"-3051190326373733127_628480":{"x":1388,"y":-1280,"vertical":false},"-5694418910375205893_628480":{"x":1884,"y":-1280,"vertical":false},"-5440002202845019967_628480":{"x":2185,"y":-951,"vertical":true},"5236730523383530310_628480":{"x":2201,"y":-647,"vertical":true},"-3051190326373733127_16318719":{"x":1388,"y":-1236,"vertical":false},"-1739084544782543089_16318719":{"x":656,"y":834,"vertical":true},"2663823604291792367_2541274":{"x":447,"y":2251,"vertical":true},"8796225117373659731_2541274":{"x":648,"y":2394,"vertical":true},"5236730523383530310_12133119":{"x":2173,"y":-647,"vertical":true},"-5440002202845019967_12133119":{"x":2185,"y":-951,"vertical":true},"-5694418910375205893_12133119":{"x":1884,"y":-1280,"vertical":false},"-3051190326373733127_12133119":{"x":1388,"y":-1279,"vertical":false},"5236730523383530310_13518217":{"x":2199,"y":-647,"vertical":true},"6447283983532826607_13518217":{"x":2405,"y":-809,"vertical":false},"6447283983532826607_65482":{"x":2405,"y":-805,"vertical":false},"5236730523383530310_65482":{"x":2205,"y":-647,"vertical":true},"-6477685382305361597_430591":{"x":1543,"y":2316,"vertical":false},"-1619362567279986015_430591":{"x":509,"y":2254,"vertical":false},"8851587345909145143_430591":{"x":648,"y":2088,"vertical":true},"-6418605228925922213_430591":{"x":648,"y":1561,"vertical":true},"7128789985197803418_16763416":{"x":928,"y":1299,"vertical":true},"6160492227114952001_16763416":{"x":705,"y":1399,"vertical":false},"-6418605228925922213_16763416":{"x":648,"y":1561,"vertical":true},"8851587345909145143_16763416":{"x":648,"y":2089,"vertical":true},"8796225117373659731_16763416":{"x":648,"y":2417,"vertical":true},"-1739084544782543089_15963818":{"x":306,"y":846,"vertical":true},"-8499241135748588762_15963818":{"x":345,"y":1363,"vertical":true},"1640121238206489486_5987732":{"x":6651,"y":5244,"vertical":false},"-7496004603142697666_5987732":{"x":6678,"y":5241,"vertical":false}},"stations":{"6643709366432364585":{"name":"灰姑娘|Cinderace","color":15825409,"zone":0,"x":4114,"z":1139,"connections":[]},"3368853261240978225":{"name":"南高原|South High Land","color":15436743,"zone":0,"x":4150,"z":1787,"connections":[]},"-3262948853168343561":{"name":"極寒村|Extreme Cold Village","color":16777215,"zone":0,"x":4156,"z":1976,"connections":[]},"-4164122030413436518":{"name":"极度温泉|S1_??,S2_??,S4_??/Extreme Hot Springs","color":16740096,"zone":5,"x":4150,"z":2115,"connections":[]},"6823092052398500926":{"name":"金融中心|Financial Center","color":16774400,"zone":0,"x":584,"z":-528,"connections":[]},"-1739084544782543089":{"name":"产卵|Spawn","color":49151,"zone":10,"x":554,"z":843,"connections":[]},"-3051190326373733127":{"name":"九龍|Kowloon","color":5631,"zone":0,"x":1323,"z":-1302,"connections":[]},"-1492420190735658279":{"name":"[WIP]紅樹林沼澤|Mangrove Swamp","color":9961472,"zone":0,"x":2111,"z":-1233,"connections":[]},"5236730523383530310":{"name":"金尼交界處|Ginny Junction","color":10354432,"zone":0,"x":2274,"z":-656,"connections":[]},"7128789985197803418":{"name":"環聊大道|Hangout Avenue","color":10034881,"zone":7,"x":941,"z":1330,"connections":[]},"-5665359505300144238":{"name":"藍色潟湖|Blue Lagoon","color":10181930,"zone":4,"x":939,"z":1914,"connections":["-2035437459134361594"]},"-6628204024248234349":{"name":"停车场第 7 层|Car parking Level 7","color":6601285,"zone":0,"x":572,"z":1620,"connections":[]},"-2035437459134361594":{"name":"ⓧ[CLOSED]论|论坛商城|Forum Mall|✗ Exit|✗Internchange","color":15347402,"zone":0,"x":848,"z":1884,"connections":["-5665359505300144238"]},"4683279714271361421":{"name":"布洛克斯街購物|Bloxstreet Shopping","color":65374,"zone":1,"x":1279,"z":1508,"connections":[]},"-4589930643863724282":{"name":"輕鐵車廠|Light Rail Depot","color":2181702,"zone":0,"x":5286,"z":2201,"connections":[]},"8464691330243490091":{"name":"花之平原|Flower Plains","color":10549794,"zone":0,"x":4541,"z":2142,"connections":[]},"-3320421163145711818":{"name":"红叶|Red Leaves","color":16721920,"zone":0,"x":3775,"z":2143,"connections":[]},"-7596109708095340909":{"name":"浮岛|Floating Island","color":15559054,"zone":0,"x":3238,"z":2145,"connections":[]},"-4414795271519129906":{"name":"阿斯彭岛|Aspen Island","color":16753664,"zone":0,"x":2611,"z":2143,"connections":[]},"2977985869678458694":{"name":"花林|Flower Forest","color":13916927,"zone":0,"x":2217,"z":2170,"connections":[]},"-6477685382305361597":{"name":"中央|Central","color":16711680,"zone":0,"x":1657,"z":2257,"connections":[]},"1573150275692725326":{"name":"沙漠河|Desert River","color":16760064,"zone":0,"x":1297,"z":2515,"connections":[]},"-7839389216972535814":{"name":"塊村|Chunk Village","color":3473152,"zone":0,"x":898,"z":2514,"connections":[]},"8796225117373659731":{"name":"刷怪塔|Mobspawn Tower","color":3637347,"zone":3,"x":644,"z":2423,"connections":[]},"8851587345909145143":{"name":"滑稽村|Huaji Village","color":5569788,"zone":8,"x":653,"z":2091,"connections":[]},"-8212736138964045606":{"name":"沙漠飛行村|Flying Desert Village","color":9132079,"zone":0,"x":84,"z":1198,"connections":[]},"2211430871436903659":{"name":"青色高地路|Cyan Heights Road","color":21503,"zone":0,"x":682,"z":532,"connections":[]},"6410148949459659609":{"name":"產卵草甸鉻5|Spawn Meadows Chrome 5","color":11640818,"zone":0,"x":684,"z":333,"connections":[]},"8423320549579878739":{"name":"產卵草甸鉻4|Spawn Meadows Chrome 4","color":40447,"zone":0,"x":683,"z":64,"connections":[]},"7243970841513343208":{"name":"產卵草甸|Spawn Medows","color":16231744,"zone":0,"x":683,"z":-206,"connections":[]},"3941282678236741906":{"name":"新金鉻8|New Gold Chrome 3","color":16769024,"zone":0,"x":928,"z":-613,"connections":[]},"2723228740791720548":{"name":"新金鉻8|New Gold Chrome 8","color":70856,"zone":0,"x":917,"z":-1052,"connections":[]},"7916619103169577785":{"name":"東方產卵|East Spawn","color":1081091,"zone":0,"x":970,"z":-1286,"connections":[]},"-5694418910375205893":{"name":"新金|New Gold","color":15712526,"zone":0,"x":1882,"z":-1279,"connections":[]},"-5440002202845019967":{"name":"金妮鉻5|Ginny Chrome 5","color":2576992,"zone":0,"x":2186,"z":-953,"connections":[]},"2663823604291792367":{"name":"熊猫森林|Panda Forest","color":7590205,"zone":2,"x":452,"z":2252,"connections":["-1619362567279986015"]},"6447283983532826607":{"name":"金妮市場|Ginny Market","color":65494,"zone":0,"x":2408,"z":-806,"connections":[]},"-1619362567279986015":{"name":"矿洞大门|Cave Gate","color":1739597,"zone":2,"x":538,"z":2250,"connections":["2663823604291792367"]},"-6418605228925922213":{"name":"矿业公司|Mining Company","color":7780608,"zone":5,"x":651,"z":1560,"connections":[]},"6160492227114952001":{"name":"原点村遗址|Spawnpoint Village Ruins","color":13289143,"zone":2,"x":706,"z":1399,"connections":[]},"-8499241135748588762":{"name":"蘇格城|Scot City","color":13697273,"zone":0,"x":346,"z":1366,"connections":[]},"1640121238206489486":{"name":"Mainsion F. 3","color":14199115,"zone":0,"x":6651,"z":5245,"connections":["-7496004603142697666"]},"-7496004603142697666":{"name":"MANSON","color":14839580,"zone":0,"x":6660,"z":5270,"connections":["-5278024406320742831","1640121238206489486"]}},"types":["train_normal","train_light_rail","cable_car_normal"]},{"routes":[],"positions":{},"stations":{},"types":[]},{"routes":[],"positions":{},"stations":{},"types":[]}]
+import UTILITIES from "./utilities.js";
+import DRAWING from "./drawing.js";
+import SETTINGS from "./settings.js";
+import ACTIONS from "./actions.js";
+import DOCUMENT from "./document.js";
+import DIRECTIONS from "./directions.js";
+
+const WALKING_SPEED_METER_PER_SECOND = 4;
+const DATA = {
+	parseOBA: (result, latOffset, lonOffset, zoomOffset) => {
+		const {list, references} = result["data"];
+		const jsonPart = {"routes": [], "positions": {}, "stations": {}, "types": []};
+		const tempStations = {};
+		const stationIdToName = {};
+		const stationNameToFirstId = {};
+		const formatId = id => id.replaceAll("_", ".");
+		const formatX = lon => (lon - lonOffset) * zoomOffset;
+		const formatY = lat => -(lat - latOffset) * zoomOffset;
+
+		references["stops"].forEach(data => {
+			const {name, id, lat, lon} = data;
+			const newName = name.split(" ").sort().join(" ");
+
+			if (!(newName in tempStations)) {
+				tempStations[newName] = {"xPositions": [], "yPositions": []};
+				stationNameToFirstId[newName] = id;
+			}
+
+			stationIdToName[id] = newName;
+			tempStations[newName]["name"] = name;
+			tempStations[newName]["xPositions"].push(formatX(lon));
+			tempStations[newName]["yPositions"].push(formatY(lat));
+		});
+
+		Object.keys(tempStations).forEach(key => {
+			const {name, xPositions, yPositions} = tempStations[key];
+			jsonPart["stations"][formatId(stationNameToFirstId[key])] = {
+				"name": name,
+				"color": colorFromCode(key),
+				"zone": 0,
+				"x": listAverage(xPositions),
+				"z": listAverage(yPositions),
+			};
+		});
+
+		list.forEach(data => {
+			const {schedule, tripId} = data;
+			const {stopTimes} = schedule;
+			const routeId = references["trips"].find(trip => trip["id"] === tripId)["routeId"];
+			const routeReference = references["routes"].find(route => route["id"] === routeId);
+			const {color, shortName, longName, description, type} = routeReference;
+			const stations = [];
+			const durations = [];
+			const densities = [];
+
+			for (let i = 0; i < stopTimes.length; i++) {
+				const stopId = stopTimes[i]["stopId"];
+				const positionId = formatId(stationNameToFirstId[stationIdToName[stopId]]) + "_" + formatId(routeId);
+				stations.push(positionId);
+				densities.push(0);
+				if (i > 0) {
+					durations.push((stopTimes[i]["arrivalTime"] - stopTimes[i - 1]["arrivalTime"]) * 20);
+				}
+				const stopReference = references["stops"].find(stop => stop["id"] === stopId);
+				jsonPart["positions"][positionId] = {
+					"x": formatX(stopReference["lon"]),
+					"y": formatY(stopReference["lat"]),
+					"angle": UTILITIES.directionToAngle(stopReference["direction"]),
+				};
+			}
+
+			const convertedType = UTILITIES.convertGtfsRouteType(type);
+			jsonPart["routes"].push({
+				"id": formatId(routeId),
+				"color": color === "" ? colorFromCode(routeId) : parseInt(color, 16),
+				"name": longName ? longName : description,
+				"number": shortName,
+				"type": convertedType,
+				"stations": stations,
+				"durations": durations,
+				"densities": densities,
+				"circular": "",
+			});
+			if (!jsonPart["types"].includes(convertedType)) {
+				jsonPart["types"].push(convertedType);
+			}
+		});
+
+		DATA.parseMTR([jsonPart]);
+	},
+	parseMTR: result => {
+		DATA.json = result;
+		ACTIONS.setupRouteTypeAndDimensionButtons();
+		result[SETTINGS.dimension]["connections"] = {};
+		const {routes, positions, stations, connections} = result[SETTINGS.dimension];
+		const elementRoutes = document.getElementById("search_results_routes");
+		elementRoutes.innerHTML = "";
+		const elementStations = document.getElementById("search_results_stations");
+		elementStations.innerHTML = "";
+
+		const routesToShow = [];
+		routes.forEach(route => {
+			// TODO temp code
+			if (!("id" in route)) {
+				route["id"] = route["color"].toString();
+			}
+			// TODO temp code end
+			if (SETTINGS.selectedRouteTypes.includes(route["type"])) {
+				routesToShow.push(route["id"]);
+			}
+			elementRoutes.append(ACTIONS.getRouteElement(route["id"], route["color"], route["name"], route["number"], route["type"], false, true, "search_route_" + route["id"], true));
+		});
+
+		const tempStations = {};
+		Object.keys(positions).forEach(key => {
+			const nameSplit = key.split("_");
+			const stationId = nameSplit[0];
+			const routeId = nameSplit[1];
+
+			if (routesToShow.includes(routeId)) {
+				if (!(stationId in tempStations)) {
+					tempStations[stationId] = {"xPositions": [], "yPositions": [], "routeIds": [], "types": []};
+					UTILITIES.angles.forEach(angle => tempStations[stationId][`routes${angle}`] = []);
+				}
+
+				const {x, y, vertical} = positions[key];
+				const angle = "angle" in positions[key] ? positions[key]["angle"] : UTILITIES.angles[vertical ? 0 : 2]; // TODO 45 degree angle increments
+				tempStations[stationId]["xPositions"].push(x);
+				tempStations[stationId]["yPositions"].push(y);
+				tempStations[stationId][`routes${angle}`].push(routeId);
+			}
+		});
+
+		Object.values(tempStations).forEach(tempStation => {
+			UTILITIES.angles.forEach(angle => tempStation[`routes${angle}`] = tempStation[`routes${angle}`].sort());
+			tempStation["x"] = listAverage(tempStation["xPositions"]);
+			tempStation["y"] = listAverage(tempStation["yPositions"]);
+			delete tempStation["xPositions"];
+			delete tempStation["yPositions"];
+		});
+
+		for (const stationId in stations) {
+			for (const stationId2 in stations) {
+				if (stationId !== stationId2) {
+					if (!(stationId in connections)) {
+						connections[stationId] = [];
+					}
+					connections[stationId].push({
+						route: null,
+						station: stationId2,
+						duration: DIRECTIONS.calculateDistance(stations, stationId, stationId2) * 20 / WALKING_SPEED_METER_PER_SECOND
+					});
+				}
+			}
+		}
+
+		const lineQueue = {};
+		const lineDirections = {};
+		let maxDensity = 1;
+		routes.forEach(route => {
+			const routeStations = route["stations"];
+			for (let i = 0; i < routeStations.length; i++) {
+				const routeId = route["id"];
+				const stopId2 = routeStations[i].split("_")[0];
+
+				if (i > 0) {
+					const stopId1 = routeStations[i - 1].split("_")[0];
+
+					if (stopId1 !== stopId2 && routesToShow.includes(routeId)) {
+						const sortedKeyPart = [stopId1, stopId2].sort();
+						const isForwards = sortedKeyPart[0] === stopId1;
+						const key = routeId + sortedKeyPart.join(" ");
+						const density = route["densities"][i - 1];
+
+						if (key in lineQueue) {
+							lineQueue[key]["density"] += density;
+							maxDensity = Math.max(maxDensity, lineQueue[key]["density"]);
+						} else {
+							lineQueue[key] = {
+								"color": route["color"],
+								"segments": [getSegmentDetails(stopId1, routeId, tempStations), getSegmentDetails(stopId2, routeId, tempStations)],
+								"selected": DATA.routeSelected(routeId, stopId1, stopId2),
+								"id": routeId,
+								"density": density,
+							};
+							maxDensity = Math.max(maxDensity, density);
+						}
+
+						if (key in lineDirections) {
+							lineDirections[key][isForwards ? 0 : 1] = true;
+						} else {
+							lineDirections[key] = [isForwards, !isForwards];
+						}
+					}
+
+					if (!(stopId1 in connections)) {
+						connections[stopId1] = [];
+					}
+					connections[stopId1].push({
+						route: route,
+						station: stopId2,
+						duration: route["durations"][i - 1],
+					});
+				}
+
+				if (stopId2 in tempStations) {
+					tempStations[stopId2]["routeIds"].push(routeId);
+					tempStations[stopId2]["types"].push(route["type"]);
+				}
+			}
+		});
+
+		Object.keys(lineDirections).forEach(key => {
+			if (lineDirections[key][0] !== lineDirections[key][1] && key in lineQueue) {
+				lineQueue[key + "_arrows1"] = lineQueue[key];
+				lineQueue[key + "_arrows2"] = lineQueue[key];
+			}
+		});
+
+		const stationQueue = {};
+		const connectionQueue = {};
+		const isSelected = stationId => SETTINGS.selectedDirectionsStations.length > 0 ? SETTINGS.selectedDirectionsStations.includes(stationId) : SETTINGS.selectedRoutes.length === 0 || tempStations[stationId]["routeIds"].some(routeId => SETTINGS.selectedRoutes.includes(routeId));
+		for (const stationId in tempStations) {
+			const routeCounts = UTILITIES.angles.map(angle => tempStations[stationId][`routes${angle}`].length);
+			stationQueue[stationId] = {
+				"id": stationId,
+				"name": stations[stationId]["name"],
+				"width": (Math.max(1, Math.max(routeCounts[0], routeCounts[1])) + 1) * SETTINGS.size * 6,
+				"height": (Math.max(1, Math.max(routeCounts[2], routeCounts[3])) + 1) * SETTINGS.size * 6,
+				"left": tempStations[stationId]["x"],
+				"top": tempStations[stationId]["y"],
+				"angle": routeCounts[1] + routeCounts[3] > routeCounts[0] + routeCounts[2] ? 45 : 0,
+				"selected": isSelected(stationId),
+				"types": tempStations[stationId]["types"],
+			};
+			UTILITIES.angles.forEach(angle => stationQueue[stationId][`routes${angle}`] = tempStations[stationId][`routes${angle}`]);
+
+			stations[stationId]["connections"].filter(connectionId => connectionId in tempStations).forEach(connectionId => {
+				connectionQueue[`${stationId}_${connectionId}_connection`] = {
+					"x1": tempStations[stationId]["x"],
+					"y1": tempStations[stationId]["y"],
+					"x2": tempStations[connectionId]["x"],
+					"y2": tempStations[connectionId]["y"],
+					"selected": isSelected(stationId) && isSelected(connectionId),
+				};
+			});
+		}
+
+		Object.keys(stations).forEach(stationId => {
+			const element = ACTIONS.getStationElement(stations[stationId]["color"], stations[stationId]["name"], stationId, "search_station_" + stationId);
+			element.setAttribute("style", "display: none");
+			elementStations.append(element);
+		});
+
+		Object.values(lineQueue).forEach(line => {
+			const densityFunction = density => -((density - 1) ** 2) + 1;
+			line["density"] = densityFunction(line["density"] / maxDensity);
+		});
+
+		DIRECTIONS.writeStationsInResult(1);
+		DIRECTIONS.writeStationsInResult(2);
+		DOCUMENT.onSearch();
+		DRAWING.drawMap(lineQueue, stationQueue, connectionQueue);
+	},
+	routeSelected: (routeId, stopId1, stopId2) => {
+		if (SETTINGS.selectedDirectionsStations.length > 0) {
+			const selectedSegments = SETTINGS.selectedDirectionsSegments[routeId];
+			return selectedSegments && ((!stopId1 || !stopId2) || selectedSegments.includes(`${stopId1}_${stopId2}`) || selectedSegments.includes(`${stopId2}_${stopId1}`));
+		} else {
+			return SETTINGS.selectedRoutes.length === 0 || SETTINGS.selectedRoutes.includes(routeId);
+		}
+	},
+	redraw: () => DATA.parseMTR(DATA.json),
+	json: [],
+};
+
+const getSegmentDetails = (stopId, routeId, tempStations) => {
+	const tempStation = tempStations[stopId];
+	const direction = UTILITIES.angles.find(angle => tempStation[`routes${angle}`].includes(routeId));
+	return {
+		"x": tempStation["x"],
+		"y": tempStation["y"],
+		"direction": direction,
+		"offsetIndex": tempStation[`routes${direction}`].indexOf(routeId),
+		"routeCount": tempStation[`routes${direction}`].length,
+	};
+};
+const listAverage = list => list.length === 0 ? 0 : list.reduce((a, b) => a + b, 0) / list.length;
+const colorFromCode = code => Math.round(code.replace(/[^0-9]/g, "") / 200 * 0xFFFFFF) % 0xFFFFFF;
+
+export default DATA;
