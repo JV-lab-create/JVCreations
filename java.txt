@@ -1,0 +1,1 @@
+-javaagent:packwiz-installer-bootstrap-wrapper.jar=https://raw.githubusercontent.com/JV-lab-create/-MTR-JMC-Packwiz/refs/heads/main/pack.toml
